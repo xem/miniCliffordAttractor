@@ -6,3 +6,5 @@ a 220b Clifford Attractor inspired by http://paulbourke.net/fractals/clifford/ a
 golfed by [p01](https://twitter.com/p01), [xem](https://twitter.com/maximeeuziere) and [subzey](https://twitter.com/subzey)
 
 Demo: http://xem.github.io/miniCliffordAttractor
+
+See also: http://github.com/xem/miniPeterDeJongdAttractor / http://github.com/xem/attractorandom
