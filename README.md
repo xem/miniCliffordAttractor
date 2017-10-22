@@ -7,4 +7,6 @@ golfed by [p01](https://twitter.com/p01), [xem](https://twitter.com/maximeeuzier
 
 Demo: http://xem.github.io/miniCliffordAttractor
 
+HD (279b): http://xem.github.io/miniCliffordAttractor/big.html
+
 See also: http://github.com/xem/miniPeterDeJongdAttractor / http://github.com/xem/attractorandom
